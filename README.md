@@ -2,13 +2,17 @@
  
 ## **Project Description**
 
-This command line interface application will assit you with generating a logo and saving it as an SVG.
+This command line interface application will generate a custom SVG logo for you
 
 ![SVG Logo Maker](./assets/screenshot01.png)
 
 ## **How to Use the Project**
 
 Initiate the app by navigating to the file path containing the index.js file and issue the command `node index.js `. From there you'll answer a series prompts to select a color, shape, and text for your logo that will be then generated into a custom SVG file. 
+
+### **Video Walkthrough**
+
+![Application Walkthrough Video](./assets/screenshot01.png)
 
 ## **Installation**
 
